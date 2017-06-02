@@ -1,0 +1,7 @@
+[package]
+name = "safe_iot"
+version = "0.1.0"
+authors = ["hunterlester <guilfordhunter@gmail.com>"]
+
+[dependencies]
+safe_core = { path = "safe_client_libs/safe_core", version = "~0.22.0"}
