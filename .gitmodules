@@ -1,0 +1,3 @@
+[submodule "safe_client_libs"]
+	path = safe_client_libs
+	url = git@github.com:maidsafe/safe_client_libs.git
