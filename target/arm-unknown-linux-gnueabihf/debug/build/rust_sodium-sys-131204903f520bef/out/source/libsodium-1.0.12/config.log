@@ -2538,9 +2538,9 @@ configure: failed program was:
 configure:17183: result: no
 configure:17194: checking if the .private_extern asm directive is supported
 configure:17216: arm-linux-gnueabihf-gcc -std=gnu99 -o conftest  -pthread -fvisibility=hidden -fPIC -fno-strict-aliasing -fno-strict-overflow -fstack-protector -Wwrite-strings -Wdiv-by-zero  -D_FORTIFY_SOURCE=2  -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack conftest.c   >&5
-/tmp/ccpGuZSw.s: Assembler messages:
-/tmp/ccpGuZSw.s:32: Error: unknown pseudo-op: `.private_extern'
-/tmp/ccpGuZSw.s:33: Error: unknown pseudo-op: `.private_extern'
+/tmp/ccT3UybM.s: Assembler messages:
+/tmp/ccT3UybM.s:32: Error: unknown pseudo-op: `.private_extern'
+/tmp/ccT3UybM.s:33: Error: unknown pseudo-op: `.private_extern'
 configure:17216: $? = 1
 configure: failed program was:
 | /* confdefs.h */
@@ -2610,7 +2610,7 @@ configure:17371: $? = 0
 configure:17372: result: yes
 configure:17390: checking for arc4random
 configure:17390: arm-linux-gnueabihf-gcc -std=gnu99 -o conftest  -pthread -fvisibility=hidden -fPIC -fno-strict-aliasing -fno-strict-overflow -fstack-protector -Wwrite-strings -Wdiv-by-zero  -D_FORTIFY_SOURCE=2  -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack conftest.c   >&5
-/tmp/cc8yiXYo.o: In function `main':
+/tmp/ccqoUoNg.o: In function `main':
 conftest.c:(.text+0x4): undefined reference to `arc4random'
 collect2: error: ld returned 1 exit status
 configure:17390: $? = 1
@@ -2691,7 +2691,7 @@ configure: failed program was:
 configure:17390: result: no
 configure:17390: checking for arc4random_buf
 configure:17390: arm-linux-gnueabihf-gcc -std=gnu99 -o conftest  -pthread -fvisibility=hidden -fPIC -fno-strict-aliasing -fno-strict-overflow -fstack-protector -Wwrite-strings -Wdiv-by-zero  -D_FORTIFY_SOURCE=2  -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack conftest.c   >&5
-/tmp/cc8szMcQ.o: In function `main':
+/tmp/ccyYvJlX.o: In function `main':
 conftest.c:(.text+0x4): undefined reference to `arc4random_buf'
 collect2: error: ld returned 1 exit status
 configure:17390: $? = 1
@@ -2788,7 +2788,7 @@ configure:17402: $? = 0
 configure:17402: result: yes
 configure:17402: checking for explicit_bzero
 configure:17402: arm-linux-gnueabihf-gcc -std=gnu99 -o conftest  -pthread -fvisibility=hidden -fPIC -fno-strict-aliasing -fno-strict-overflow -fstack-protector -Wwrite-strings -Wdiv-by-zero  -D_FORTIFY_SOURCE=2  -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack conftest.c   >&5
-/tmp/cc2b9viA.o: In function `main':
+/tmp/ccSGeATA.o: In function `main':
 conftest.c:(.text+0x4): undefined reference to `explicit_bzero'
 collect2: error: ld returned 1 exit status
 configure:17402: $? = 1

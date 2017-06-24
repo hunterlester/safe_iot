@@ -1,5 +1,5 @@
-extern crate safe_core;
 /*
+extern crate safe_core;
 extern crate dotenv;
 extern crate tokio_core;
 extern crate mio;
@@ -38,11 +38,9 @@ fn channel2<T>(handle: &Handle) -> io::Result<(Sender<T>, Receiver<T>)>
     let rx = try!(PollEvented::new(rx, handle));
     Ok((Sender { tx: tx }, Receiver { rx: rx }))
 }
-*/
 
 
 fn main() {
-/*
     dotenv().expect("Failed to read .env file");
 
     let mut SEED: String = String::new();
@@ -66,7 +64,12 @@ fn main() {
       Ok(_) => (),
       Err(err) => panic!("{:?}", err),
     }
-*/
+
     println!("Account Created Successfully !!");
 
+}
+*/
+
+fn main() {
+    println!("Hello World!");
 }

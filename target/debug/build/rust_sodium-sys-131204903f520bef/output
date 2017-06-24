@@ -1,0 +1,3 @@
+cargo:rustc-link-lib=static=sodium
+cargo:rustc-link-search=native=C:\Users\guilf\dev\safe_iot\target\debug\build\rust_sodium-sys-131204903f520bef\out/installed\lib
+cargo:include=C:\Users\guilf\dev\safe_iot\target\debug\build\rust_sodium-sys-131204903f520bef\out/installed/include

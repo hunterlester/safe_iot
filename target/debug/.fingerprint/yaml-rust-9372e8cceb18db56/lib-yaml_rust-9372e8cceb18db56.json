@@ -1,0 +1,1 @@
+{"rustc":11392149366475366841,"features":"[\"linked-hash-map\", \"preserve_order\"]","target":17133826565396459057,"profile":731176819336294830,"deps":[["linked-hash-map v0.3.0",674218538011913028]],"local":{"Precalculated":"0.3.5"},"rustflags":[]}
