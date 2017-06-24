@@ -5,3 +5,6 @@ authors = ["hunterlester <guilfordhunter@gmail.com>"]
 
 [dependencies]
 safe_core = { path = "safe_client_libs/safe_core", version = "~0.23.0"}
+
+[features]
+use-mock-routing = ["safe_core/use-mock-routing"]
