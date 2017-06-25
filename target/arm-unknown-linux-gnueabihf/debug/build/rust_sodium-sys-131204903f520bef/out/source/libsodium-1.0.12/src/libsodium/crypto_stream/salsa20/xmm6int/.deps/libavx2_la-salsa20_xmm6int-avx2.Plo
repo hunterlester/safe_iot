@@ -1,0 +1,110 @@
+crypto_stream/salsa20/xmm6int/libavx2_la-salsa20_xmm6int-avx2.lo: \
+ crypto_stream/salsa20/xmm6int/salsa20_xmm6int-avx2.c \
+ /usr/arm-linux-gnueabihf/include/stdc-predef.h \
+ /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/include/stdint.h \
+ /usr/arm-linux-gnueabihf/include/stdint.h \
+ /usr/arm-linux-gnueabihf/include/features.h \
+ /usr/arm-linux-gnueabihf/include/sys/cdefs.h \
+ /usr/arm-linux-gnueabihf/include/bits/wordsize.h \
+ /usr/arm-linux-gnueabihf/include/gnu/stubs.h \
+ /usr/arm-linux-gnueabihf/include/gnu/stubs-hard.h \
+ /usr/arm-linux-gnueabihf/include/bits/wchar.h \
+ /usr/arm-linux-gnueabihf/include/stdlib.h \
+ /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/include/stddef.h \
+ /usr/arm-linux-gnueabihf/include/bits/waitflags.h \
+ /usr/arm-linux-gnueabihf/include/bits/waitstatus.h \
+ /usr/arm-linux-gnueabihf/include/endian.h \
+ /usr/arm-linux-gnueabihf/include/bits/endian.h \
+ /usr/arm-linux-gnueabihf/include/bits/byteswap.h \
+ /usr/arm-linux-gnueabihf/include/bits/types.h \
+ /usr/arm-linux-gnueabihf/include/bits/typesizes.h \
+ /usr/arm-linux-gnueabihf/include/bits/byteswap-16.h \
+ /usr/arm-linux-gnueabihf/include/xlocale.h \
+ /usr/arm-linux-gnueabihf/include/sys/types.h \
+ /usr/arm-linux-gnueabihf/include/time.h \
+ /usr/arm-linux-gnueabihf/include/sys/select.h \
+ /usr/arm-linux-gnueabihf/include/bits/select.h \
+ /usr/arm-linux-gnueabihf/include/bits/sigset.h \
+ /usr/arm-linux-gnueabihf/include/bits/time.h \
+ /usr/arm-linux-gnueabihf/include/sys/sysmacros.h \
+ /usr/arm-linux-gnueabihf/include/bits/pthreadtypes.h \
+ /usr/arm-linux-gnueabihf/include/alloca.h \
+ /usr/arm-linux-gnueabihf/include/bits/stdlib-float.h \
+ /usr/arm-linux-gnueabihf/include/string.h \
+ include/sodium/crypto_stream_salsa20.h include/sodium/export.h \
+ include/sodium/private/common.h include/sodium/private/sse2_64_32.h \
+ include/sodium/private/common.h include/sodium/utils.h
+
+/usr/arm-linux-gnueabihf/include/stdc-predef.h:
+
+/usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/include/stdint.h:
+
+/usr/arm-linux-gnueabihf/include/stdint.h:
+
+/usr/arm-linux-gnueabihf/include/features.h:
+
+/usr/arm-linux-gnueabihf/include/sys/cdefs.h:
+
+/usr/arm-linux-gnueabihf/include/bits/wordsize.h:
+
+/usr/arm-linux-gnueabihf/include/gnu/stubs.h:
+
+/usr/arm-linux-gnueabihf/include/gnu/stubs-hard.h:
+
+/usr/arm-linux-gnueabihf/include/bits/wchar.h:
+
+/usr/arm-linux-gnueabihf/include/stdlib.h:
+
+/usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/include/stddef.h:
+
+/usr/arm-linux-gnueabihf/include/bits/waitflags.h:
+
+/usr/arm-linux-gnueabihf/include/bits/waitstatus.h:
+
+/usr/arm-linux-gnueabihf/include/endian.h:
+
+/usr/arm-linux-gnueabihf/include/bits/endian.h:
+
+/usr/arm-linux-gnueabihf/include/bits/byteswap.h:
+
+/usr/arm-linux-gnueabihf/include/bits/types.h:
+
+/usr/arm-linux-gnueabihf/include/bits/typesizes.h:
+
+/usr/arm-linux-gnueabihf/include/bits/byteswap-16.h:
+
+/usr/arm-linux-gnueabihf/include/xlocale.h:
+
+/usr/arm-linux-gnueabihf/include/sys/types.h:
+
+/usr/arm-linux-gnueabihf/include/time.h:
+
+/usr/arm-linux-gnueabihf/include/sys/select.h:
+
+/usr/arm-linux-gnueabihf/include/bits/select.h:
+
+/usr/arm-linux-gnueabihf/include/bits/sigset.h:
+
+/usr/arm-linux-gnueabihf/include/bits/time.h:
+
+/usr/arm-linux-gnueabihf/include/sys/sysmacros.h:
+
+/usr/arm-linux-gnueabihf/include/bits/pthreadtypes.h:
+
+/usr/arm-linux-gnueabihf/include/alloca.h:
+
+/usr/arm-linux-gnueabihf/include/bits/stdlib-float.h:
+
+/usr/arm-linux-gnueabihf/include/string.h:
+
+include/sodium/crypto_stream_salsa20.h:
+
+include/sodium/export.h:
+
+include/sodium/private/common.h:
+
+include/sodium/private/sse2_64_32.h:
+
+include/sodium/private/common.h:
+
+include/sodium/utils.h:

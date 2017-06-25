@@ -1,0 +1,49 @@
+crypto_scalarmult/curve25519/ref10/libsodium_la-x25519_ref10.lo: \
+ crypto_scalarmult/curve25519/ref10/x25519_ref10.c \
+ /usr/arm-linux-gnueabihf/include/stdc-predef.h \
+ /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/include/stddef.h \
+ /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/include/stdint.h \
+ /usr/arm-linux-gnueabihf/include/stdint.h \
+ /usr/arm-linux-gnueabihf/include/features.h \
+ /usr/arm-linux-gnueabihf/include/sys/cdefs.h \
+ /usr/arm-linux-gnueabihf/include/bits/wordsize.h \
+ /usr/arm-linux-gnueabihf/include/gnu/stubs.h \
+ /usr/arm-linux-gnueabihf/include/gnu/stubs-hard.h \
+ /usr/arm-linux-gnueabihf/include/bits/wchar.h \
+ crypto_scalarmult/curve25519/ref10/../scalarmult_curve25519.h \
+ include/sodium/private/curve25519_ref10.h include/sodium/utils.h \
+ include/sodium/export.h \
+ crypto_scalarmult/curve25519/ref10/x25519_ref10.h \
+ include/sodium/crypto_scalarmult_curve25519.h
+
+/usr/arm-linux-gnueabihf/include/stdc-predef.h:
+
+/usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/include/stddef.h:
+
+/usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/include/stdint.h:
+
+/usr/arm-linux-gnueabihf/include/stdint.h:
+
+/usr/arm-linux-gnueabihf/include/features.h:
+
+/usr/arm-linux-gnueabihf/include/sys/cdefs.h:
+
+/usr/arm-linux-gnueabihf/include/bits/wordsize.h:
+
+/usr/arm-linux-gnueabihf/include/gnu/stubs.h:
+
+/usr/arm-linux-gnueabihf/include/gnu/stubs-hard.h:
+
+/usr/arm-linux-gnueabihf/include/bits/wchar.h:
+
+crypto_scalarmult/curve25519/ref10/../scalarmult_curve25519.h:
+
+include/sodium/private/curve25519_ref10.h:
+
+include/sodium/utils.h:
+
+include/sodium/export.h:
+
+crypto_scalarmult/curve25519/ref10/x25519_ref10.h:
+
+include/sodium/crypto_scalarmult_curve25519.h:

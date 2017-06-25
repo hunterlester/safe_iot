@@ -1,0 +1,16 @@
+crypto_scalarmult/libsodium_la-crypto_scalarmult.lo: \
+ crypto_scalarmult/crypto_scalarmult.c \
+ /usr/arm-linux-gnueabihf/include/stdc-predef.h \
+ include/sodium/crypto_scalarmult.h \
+ /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/include/stddef.h \
+ include/sodium/crypto_scalarmult_curve25519.h include/sodium/export.h
+
+/usr/arm-linux-gnueabihf/include/stdc-predef.h:
+
+include/sodium/crypto_scalarmult.h:
+
+/usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/include/stddef.h:
+
+include/sodium/crypto_scalarmult_curve25519.h:
+
+include/sodium/export.h:

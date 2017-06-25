@@ -1,0 +1,22 @@
+OPT_LEVEL = Some("0")
+TARGET = Some("arm-unknown-linux-gnueabihf")
+HOST = Some("x86_64-unknown-linux-gnu")
+TARGET = Some("arm-unknown-linux-gnueabihf")
+TARGET = Some("arm-unknown-linux-gnueabihf")
+HOST = Some("x86_64-unknown-linux-gnu")
+CC_arm-unknown-linux-gnueabihf = None
+CC_arm_unknown_linux_gnueabihf = None
+TARGET_CC = None
+CC = None
+HOST = Some("x86_64-unknown-linux-gnu")
+CROSS_COMPILE = None
+TARGET = Some("arm-unknown-linux-gnueabihf")
+HOST = Some("x86_64-unknown-linux-gnu")
+CFLAGS_arm-unknown-linux-gnueabihf = None
+CFLAGS_arm_unknown_linux_gnueabihf = None
+TARGET_CFLAGS = None
+CFLAGS = None
+PROFILE = Some("debug")
+cargo:rustc-link-lib=static=sodium
+cargo:rustc-link-search=native=/safe_iot/target/arm-unknown-linux-gnueabihf/debug/build/rust_sodium-sys-131204903f520bef/out/installed/lib
+cargo:include=/safe_iot/target/arm-unknown-linux-gnueabihf/debug/build/rust_sodium-sys-131204903f520bef/out/installed/include

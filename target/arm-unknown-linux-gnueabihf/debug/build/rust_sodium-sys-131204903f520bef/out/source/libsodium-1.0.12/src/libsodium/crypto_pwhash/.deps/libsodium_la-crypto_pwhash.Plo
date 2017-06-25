@@ -1,0 +1,85 @@
+crypto_pwhash/libsodium_la-crypto_pwhash.lo: \
+ crypto_pwhash/crypto_pwhash.c \
+ /usr/arm-linux-gnueabihf/include/stdc-predef.h \
+ /usr/arm-linux-gnueabihf/include/errno.h \
+ /usr/arm-linux-gnueabihf/include/features.h \
+ /usr/arm-linux-gnueabihf/include/sys/cdefs.h \
+ /usr/arm-linux-gnueabihf/include/bits/wordsize.h \
+ /usr/arm-linux-gnueabihf/include/gnu/stubs.h \
+ /usr/arm-linux-gnueabihf/include/gnu/stubs-hard.h \
+ /usr/arm-linux-gnueabihf/include/bits/errno.h \
+ /usr/arm-linux-gnueabihf/include/linux/errno.h \
+ /usr/arm-linux-gnueabihf/include/asm/errno.h \
+ /usr/arm-linux-gnueabihf/include/asm-generic/errno.h \
+ /usr/arm-linux-gnueabihf/include/asm-generic/errno-base.h \
+ include/sodium/crypto_pwhash.h \
+ /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/include/stddef.h \
+ include/sodium/crypto_pwhash_argon2i.h \
+ /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/include-fixed/limits.h \
+ /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/include-fixed/syslimits.h \
+ /usr/arm-linux-gnueabihf/include/limits.h \
+ /usr/arm-linux-gnueabihf/include/bits/posix1_lim.h \
+ /usr/arm-linux-gnueabihf/include/bits/local_lim.h \
+ /usr/arm-linux-gnueabihf/include/linux/limits.h \
+ /usr/arm-linux-gnueabihf/include/bits/posix2_lim.h \
+ /usr/arm-linux-gnueabihf/include/bits/xopen_lim.h \
+ /usr/arm-linux-gnueabihf/include/bits/stdio_lim.h \
+ /usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/include/stdint.h \
+ /usr/arm-linux-gnueabihf/include/stdint.h \
+ /usr/arm-linux-gnueabihf/include/bits/wchar.h include/sodium/export.h
+
+/usr/arm-linux-gnueabihf/include/stdc-predef.h:
+
+/usr/arm-linux-gnueabihf/include/errno.h:
+
+/usr/arm-linux-gnueabihf/include/features.h:
+
+/usr/arm-linux-gnueabihf/include/sys/cdefs.h:
+
+/usr/arm-linux-gnueabihf/include/bits/wordsize.h:
+
+/usr/arm-linux-gnueabihf/include/gnu/stubs.h:
+
+/usr/arm-linux-gnueabihf/include/gnu/stubs-hard.h:
+
+/usr/arm-linux-gnueabihf/include/bits/errno.h:
+
+/usr/arm-linux-gnueabihf/include/linux/errno.h:
+
+/usr/arm-linux-gnueabihf/include/asm/errno.h:
+
+/usr/arm-linux-gnueabihf/include/asm-generic/errno.h:
+
+/usr/arm-linux-gnueabihf/include/asm-generic/errno-base.h:
+
+include/sodium/crypto_pwhash.h:
+
+/usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/include/stddef.h:
+
+include/sodium/crypto_pwhash_argon2i.h:
+
+/usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/include-fixed/limits.h:
+
+/usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/include-fixed/syslimits.h:
+
+/usr/arm-linux-gnueabihf/include/limits.h:
+
+/usr/arm-linux-gnueabihf/include/bits/posix1_lim.h:
+
+/usr/arm-linux-gnueabihf/include/bits/local_lim.h:
+
+/usr/arm-linux-gnueabihf/include/linux/limits.h:
+
+/usr/arm-linux-gnueabihf/include/bits/posix2_lim.h:
+
+/usr/arm-linux-gnueabihf/include/bits/xopen_lim.h:
+
+/usr/arm-linux-gnueabihf/include/bits/stdio_lim.h:
+
+/usr/lib/gcc-cross/arm-linux-gnueabihf/4.8/include/stdint.h:
+
+/usr/arm-linux-gnueabihf/include/stdint.h:
+
+/usr/arm-linux-gnueabihf/include/bits/wchar.h:
+
+include/sodium/export.h:
